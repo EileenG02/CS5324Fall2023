@@ -1,0 +1,9 @@
+# Push Folder, Not Dataset
+
+*
+!.gitignore
+
+# Download Data:
+
+# https://www.dropbox.com/s/bf7i7qjftk7cmzq/acs2017_census_tract_data.csv?dl=0
+# Download -> Extract -> LabFour/Dataset
